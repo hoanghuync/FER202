@@ -1,0 +1,19 @@
+.app {
+    min-height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    border-width: 2px !important;
+  }
+  
+  .card-img-top {
+    object-fit: cover;
+    height: 200px;
+  }
+  
+  footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
